@@ -14,7 +14,7 @@ Busco consolidar minha base técnica, contribuir para projetos open-source e exp
 <div>
   <a href="https://github.com/Erick200723">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick200723&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick200723&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick200723&locale=pt-br&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=8"/>
   </a>
 </div>
 
