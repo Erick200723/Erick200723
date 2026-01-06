@@ -1,6 +1,6 @@
 💻 Erick Gabriel 
 
-Olá! Sou Erick Gabriel, estudante do 3º ano do Ensino Médio Técnico em Desenvolvimento de Jogos, e entusiasta de tecnologia. 
+Olá! Sou Erick Gabriel entusiasta de tecnologia. 
  
 Minha jornada no mundo da programação tem sido majoritariamente autodidata com foco em Full Stack. 
 Busco aprimoramento por meio de cursos especializados.
