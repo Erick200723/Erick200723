@@ -29,106 +29,35 @@ Contribuir para projetos open-source e expandir meu portfólio com soluções cr
 
 🤖 Tecnologias:
 <p style="min-width: max-content">
-  <!-- HTML -->
-  <img
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-  />
-  <!-- CSS -->
-  <img
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-  />
-  <!-- SCSS/SASS -->
-  <img
-    alt="SCSS"
-    title="SCSS"
-    width="30px"
-    style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
-  />
-  <!-- JavaScript -->
-  <img
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-  />
-  <!-- Python -->
-  <img
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-  />
-  <!-- Streamlit -->
-  <img
-    alt="Streamlit"
-    title="Streamlit"
-    width="30px"
-    style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
-  />
-  <!-- XAMPP (Apache + MySQL + PHP) -->
-  <img
-    alt="XAMPP"
-    title="XAMPP"
-    width="30px"
-    style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg"
-  />
-  <img
-    alt="MySQL"
-    title="MySQL"
-    width="30px"
-    style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-  />
-  <img
-    alt="PHP"
-    title="PHP"
-    width="30px"
-    style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-  />
-  <!-- TypeScript -->
-  <img
-    alt="TypeScript"
-    title="TypeScript"
-    width="30px"
-    style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-  />
-  <!-- Angular -->
-  <img
-    alt="Angular"
-    title="Angular"
-    width="30px"
-    style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
-  />
-  <!-- Git -->
-  <img
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-  />
-  <!-- Node.js -->
-  <img
-    alt="Node.js"
-    title="Node.js"
-    width="30px"
-    style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-  />
+  <!-- Front-end -->
+  <img alt="HTML5" title="HTML5" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="SCSS" title="SCSS / SASS" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="Angular" title="Angular" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+  <img alt="React" title="React" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="React Native" title="React Native" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+  <!-- Back-end -->
+  <img alt="Node.js" title="Node.js" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="Express" title="Express" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img alt="Fastify" title="Fastify" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
+  <img alt="Python" title="Python" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Streamlit" title="Streamlit" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
+
+  <!-- Banco de Dados -->
+  <img alt="MySQL" title="MySQL" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="MariaDB" title="MariaDB" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
+  <img alt="SQL Server" title="SQL Server" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+  <img alt="MongoDB" title="MongoDB" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+
+  <!-- Ferramentas -->
+  <img alt="Prisma" title="Prisma ORM" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  <img alt="Postman" title="Postman" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img alt="Swagger" title="Swagger" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+  <img alt="Git" title="Git" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </p>
+
