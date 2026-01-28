@@ -44,8 +44,6 @@ Curto construir **APIs bem estruturadas**, com autenticação, integrações rea
   />
 </p>
 
-> 🔎 **Obs:** HTML e CSS foram ocultados propositalmente  
-> para refletir melhor **as linguagens que você realmente usa no dia a dia**.
 
 ---
 
