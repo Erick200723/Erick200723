@@ -26,7 +26,7 @@ Curto construir **APIs bem estruturadas**, com autenticação, integrações rea
 ## ⚙️ Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,postgres,react,angula,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,postgres,react,mongodb&theme=dark" />
 </p>
 
 ---
