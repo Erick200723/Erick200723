@@ -23,27 +23,20 @@ Curto construir **APIs bem estruturadas**, com autenticação, integrações rea
 
 ---
 
-## ⚙️ Stack principal
+## ⚙️ Minhas Tecnologias (Stack)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,postgres,react,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,prisma,postgres,mysql,docker,react,mongodb&theme=dark&v=1" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (dinâmico)
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Erick200723&show_icons=true&theme=dracula&hide_border=true"
-  />
-  <img 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick200723&layout=compact&theme=dracula&hide_border=true&hide=html,css"
-  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Erick200723&show_icons=true&theme=blood&hide_border=true&count_private=true&v=1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick200723&layout=compact&theme=blood&hide_border=true&hide=html,css&v=1" />
 </p>
-
 
 ---
 
@@ -53,7 +46,9 @@ Curto construir **APIs bem estruturadas**, com autenticação, integrações rea
 - Autenticação (JWT, cookies)  
 - Prisma ORM + bancos SQL e NoSQL  
 - Integrações (e-mail, pagamentos, serviços externos)  
-- Boas práticas e arquitetura de back-end  
+- Boas práticas e arquitetura de back-end
+- 📦 Integrações de Hardware e Serviços Externos
+- 🐳 Docker para ambientes escaláveis
 
 ---
 
