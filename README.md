@@ -25,7 +25,7 @@ Tenho projetos reais em produção com contratos ativos, incluindo plataformas w
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,postgres,mysql,docker,react,rust&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,postgres,mysql,docker,react&theme=dark"/>
 </p>
 
 <p align="center">
